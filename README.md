@@ -7,3 +7,6 @@ During the class I learnt about the different infinities
 ...java
 Integer.MAX_VALUE
 Double.MAX.VALUE +1
+...
+**NOTE**
+Use Jshell to experiment with java

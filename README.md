@@ -1,12 +1,13 @@
 # Just-testing
 ## Just testing
-***java
+```java
 final int BIG = 10000;
+```
 
 During the class I learnt about the different infinities
-...java
+```java
 Integer.MAX_VALUE
 Double.MAX.VALUE +1
-...
+```
 **NOTE**
-Use Jshell to experiment with java
+Use JSHELL to experiment with java
